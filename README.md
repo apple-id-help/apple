@@ -21,4 +21,4 @@
 
 1. 克隆本项目到本地：
    ```bash
-   git clone [https://github.com/yourusername/apple-id-help.git](https://github.com/yourusername/apple-id-help.git)
+   git clone [https://github.com/yourusername/apple.git](https://github.com/yourusername/apple.git)
